@@ -1,3 +1,9 @@
+/**
+ * Simple EDIFACT COPARN message generator
+ * Sample use case: export order confirmation
+ */
+
+
 package src;
 
 import java.time.LocalDate;
