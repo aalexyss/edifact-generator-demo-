@@ -1,9 +1,10 @@
-# edifact-generator-demo-
+#edifact-generator-demo-
 Generation of EDIFACT messages (COPARN, VERMAS) from fictitious data, with business logic and automation
-
 
 This is a demo project for generating EDIFACT messages (COPARN, VERMAS, and others) from structured logistics data.  
 It simulates how container and shipment data can be processed and transformed into standardized EDI formats using Java.
+
+The code is minimal, focusing on clarity rather than completeness.
 
 ##Features
 
