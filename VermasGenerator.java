@@ -1,3 +1,8 @@
+/**
+ * Simple EDIFACT VERMAS message generator
+ * Sample use case: Verified Gross Mass (VGM) declaration for container shipments
+ */
+
 package src;
 
 import java.time.LocalDate;
